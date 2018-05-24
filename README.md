@@ -1,0 +1,2 @@
+# masukaja.js
+masukaja
